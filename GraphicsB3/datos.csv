@@ -1,0 +1,11 @@
+Matrix Type,Tamaño de la Matriz,Tiempo de Ejecución
+Sparce,130,4
+Sparce,420,13
+Sparce,662,14
+Sparce,1074,53
+Sparce,1473,151
+Dense,130,8
+Dense,420,263
+Dense,662,1426
+Dense,1074,8834
+Dense,1473,33292
